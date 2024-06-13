@@ -1,0 +1,24 @@
+asgiref==3.8.1
+Django==5.0.6
+sqlparse==0.5.0
+tzdata==2024.1
+
+Ideia do Projeto 
+
+
+Objetivo: O objetivo deste projeto é criar um aplicativo web usando o framework Django, que permitirá aos usuários visualizar uma lista de cursos oferecidos pela escola, bem como detalhes específicos de cada curso.
+Funcionalidades:
+Página Inicial:
+A página inicial do sistema de gerenciamento escolar deve fornecer uma visão geral do sistema.
+Pode conter links para outras partes do sistema, como a lista de cursos.
+Lista de Cursos:
+Esta página deve exibir uma lista de todos os cursos oferecidos pela escola.
+Detalhes do Curso:
+Deve incluir o nome do curso,valor, a parcelas, a data de início e a data de término.
+Também pode incluir informações adicionais, como o instrutor do curso.
+Tecnologias Utilizadas:
+Django: Um framework web em Python para facilitar o desenvolvimento rápido de aplicativos web.
+HTML/CSS: Para criar os templates e estilizar as páginas web.
+Bootstrap (opcional): Um framework de front-end para facilitar o design responsivo e a criação de interfaces de usuário atraentes.
+Entrega do Projeto:
+Suba o projeto en um repositório Git contendo o código-fonte e os arquivos necessários.
