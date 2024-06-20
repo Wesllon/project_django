@@ -21,4 +21,4 @@ Django: Um framework web em Python para facilitar o desenvolvimento rápido de a
 HTML/CSS: Para criar os templates e estilizar as páginas web.
 Bootstrap (opcional): Um framework de front-end para facilitar o design responsivo e a criação de interfaces de usuário atraentes.
 Entrega do Projeto:
-Suba o projeto en um repositório Git contendo o código-fonte e os arquivos necessários.
+Suba o projeto en um repositório Git contendo o código-fonte e os arquivos necessários.f
